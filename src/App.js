@@ -33,7 +33,9 @@ const useStyles = makeStyles((theme) => ({
     marginRight: theme.spacing(1)
   },
   title: {
-    flexGrow: 1
+    flexGrow: 1,
+    asdf: 34,
+    asdfs: 3
   },
   mainFeaturesPost: {
     position: "relative",
